@@ -1,0 +1,17 @@
+h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+body {
+    background-color: rgb(161, 191, 218);
+}
+
+p {
+    font-style: italic; position: absolute; right: 7%; top: 330px;
+}
+
+img {
+    width: 240px; height: 170px; position: absolute; right: 10%; top: 160px;
+    
+}
