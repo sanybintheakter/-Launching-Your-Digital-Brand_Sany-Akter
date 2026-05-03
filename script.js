@@ -13,6 +13,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
     project.addEventListener("mouseout", () => {
       project.style.transform = "scale(1)";
+      function contactClick() {
+  console.log("Contact button clicked");
+}
     });
   });
 });
