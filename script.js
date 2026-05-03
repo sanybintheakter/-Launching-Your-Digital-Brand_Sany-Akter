@@ -10,9 +10,7 @@ project.style.transition = "0.3s ease";
 project.addEventListener("mouseout", () => {
 project.style.transform = "scale(1)";
 function contactClick() 
-{
-console.log("Contact button clicked");
-}
+{console.log("Contact button clicked");}
 });
 });
 });
